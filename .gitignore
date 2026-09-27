@@ -1,0 +1,3 @@
+# Local / user trip data — never commit
+trip.json
+*.local.json

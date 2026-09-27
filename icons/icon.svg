@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Trip">
+  <rect width="128" height="128" rx="28" fill="#0f766e"/>
+  <path d="M28 78c18-28 36-42 54-42 8 0 14 4 18 12-22 4-38 16-50 36-6 2-14 0-22-6z" fill="#99f6e4"/>
+  <circle cx="86" cy="40" r="10" fill="#f0fdfa"/>
+  <path d="M34 92h60" stroke="#ccfbf1" stroke-width="6" stroke-linecap="round"/>
+</svg>
